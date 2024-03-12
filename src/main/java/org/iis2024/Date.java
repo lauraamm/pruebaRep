@@ -55,7 +55,6 @@ public class Date {
    * @param year The year (should ideally be within the valid range of 1900 to 2050 for validation
    *     to pass).
    */
-//Constructor modified by the collaborator. Again!!!
 public Date(int tag, int monat, int jahr) {
 this.day = tag;
 this.month = monat;
